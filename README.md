@@ -1,10 +1,9 @@
-### Hi there 🤠
-- 🌎 I’m currently learning ...
-- 🚀 I’m currently learning ...
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/
-- 💭 
-- ⚡ Fun fact: bees sting other bees 😭
+Hi I'm Kevin, currently pursing a Honours BSc Computer Science: Big Data Systems Concentration @ Wilfred Laurier.
+Most of the work I've done so far is school work, but on the other hand I feel like I'm learning lots.
+
+Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/
+
+
 <!--
 **kevinyejoonlee/kevinyejoonlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
