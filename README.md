@@ -1,7 +1,7 @@
 Hi I'm Kevin,
 
-currently pursing a Honours BSc Computer Science: Big Data Systems Concentration @ Wilfred Laurier.
-Most of the work I've done so far is school work, but on the other hand I feel like I'm learning lots.
+currently pursing an Honours BSc Computer Science: Big Data Systems Concentration @ Wilfred Laurier.
+Most of the work I've done so far is school work, but on the other hand, I feel like I'm learning lots.
 
 Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/
 
