@@ -2,7 +2,7 @@
 
 
 <h2>Hi I'm Kevin!</h2>
-<p>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</p>
+<h3>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h3>
 <p> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="20" height="20" /> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="20" height="20" />
