@@ -2,8 +2,8 @@
 
 
 <h2>Hi I'm Kevin!</h2>
-<p>I'm currently working on my blogging website: ____!</p>
-<p>fun fact: I love playing guitar and BJJ</p>
+<h4>Feel Free to reach out!</h4>
+
 
 <h4>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h4>
 <p> 
