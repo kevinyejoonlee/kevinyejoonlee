@@ -2,7 +2,9 @@
 
 
 <h2>Hi I'm Kevin!</h2>
-<h4>Feel free to reach out!</h4>
+<h4>I'm currently working on my blogging website: ____!</h4>
+<h4>fun fact: I love playing guitar and BJJ</h4>
+
 <h4>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h4>
 <p> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="20" height="20" /> 
