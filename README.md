@@ -2,7 +2,7 @@
 
 
 <h2>Hi I'm Kevin!</h2>
-<h4>Feel Free to reach out!</h4>
+<h4>Feel free to reach out!</h4>
 
 
 <h4>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h4>
