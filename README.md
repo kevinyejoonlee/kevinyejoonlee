@@ -4,7 +4,7 @@
   
 <p>🥋 Belt: White 1 Stripe (4 months)</p>
 
-<p>🎸 Guitar tiktok: (removed will be uploaded soon on new blog)</p>
+<p>🎸 Guitar tiktok: (will be uploaded soon on new blog)</p>
 
 <p>📖 Currently reading </p>
 <ul>
