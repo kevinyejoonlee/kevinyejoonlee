@@ -2,7 +2,7 @@
 
 <h2>Hi I'm Kevin!</h2>
 
-<p>I'm a third year computer science student at Wilfrid Laurier University. I love to challenge myself. ⚡️ My hobbies are playing the guitar, reading and BJJ</p>
+<h4>I'm a third year computer science student at Wilfrid Laurier University. I love to challenge myself. ⚡️ My hobbies are making stuff, playing guitar, reading and BJJ</h4>
   
 <p>🥋 Belt: White  (4 months)</p>
 
