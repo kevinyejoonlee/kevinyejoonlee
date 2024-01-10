@@ -14,8 +14,9 @@
 <p>📚 On the Shelf </p>
 <ul>
 
-    <li>...</li>
-    <li>... </li>
+    <li>Why it’s OK to Ignore Politics by Christopher Freiman</li>
+    <li>The Air We Breathe by Glen Scrivener </li>
+    <li>many more...</li>
 
 </ul>
 
