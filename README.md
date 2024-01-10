@@ -10,9 +10,8 @@
     <li>A Brief History of Time by Stephen Hawkin</li>
     <li>The Prodigal God by Timothy Keller  </li>
     📚 On the shelf
-    <li>...</li>
-    <li>... </li>
-    <li>... </li>
+    <li> too many books blog coming soon!</li>
+
 <ul>
     
 
