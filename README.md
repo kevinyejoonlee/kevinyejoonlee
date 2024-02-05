@@ -2,10 +2,6 @@
 
 <p>I'm a third year computer science student at Wilfrid Laurier University. I love to challenge myself. ⚡️ My hobbies are making stuff, playing guitar and BJJ</p>
   
-<p>🥋 Belt: White 1 Stripe (4 months)</p>
-
-<p>🎸 Guitar reels: (will be uploaded soon on new blog)</p>
-
 <p>📖 Currently reading </p>
 <ul>
     <li>A Brief History of Time by Stephen Hawkin</li>
