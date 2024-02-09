@@ -1,7 +1,7 @@
 <h2>Hi I'm Kevin!</h2>
 
 <p>I'm a third year computer science student at Wilfrid Laurier University. I love to challenge myself. ⚡️ My hobbies are making stuff, playing guitar and BJJ.</p>
-  
+<a href="https://kevinyejoonlee.com/">https://kevinyejoonlee.com/<a>
 <p>📖 Currently reading </p>
 <ul>
     <li>A Brief History of Time by Stephen Hawkin</li>
