@@ -1,24 +1,6 @@
 <h2>Hi I'm Kevin!</h2> 
 
-
-<p>I'm a third year computer science student at Wilfrid Laurier University. I love to challenge myself. ⚡️ My hobbies are making stuff, playing guitar and BJJ. <br><br>Portfolio: <a href="https://kevinyejoonlee.com/">https://kevinyejoonlee.com/<a></p>
-
-<p>📖 Currently reading </p>
-<ul>
-    <li>A Brief History of Time by Stephen Hawkin</li>
-    <li>The Prodigal God by Timothy Keller  </li>
-</ul>
-<p>📚 On the Shelf </p>
-<ul>
-    <li>Why it’s OK to Ignore Politics by Christopher Freiman</li>
-    <li>The Air We Breathe by Glen Scrivener </li>
-    <li>many more...</li>
-</ul>
-
-
-
 <h4>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h4>
-<h4>Feel free to reach out 😄</h4>
 
 <p> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="20" height="20" /> 
