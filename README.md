@@ -1,6 +1,6 @@
 <h2>Hi I'm Kevin!</h2> 
 
-<h4>website: https://kevinyejoonlee.com/</h4>
+<h4>Website: https://kevinyejoonlee.com/</h4>
 
 <h4>Email: kevinyejoonlee@gmail.com | LinkedIn: https://www.linkedin.com/in/kevinyejoonlee/</h4>
 
