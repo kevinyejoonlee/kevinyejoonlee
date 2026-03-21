@@ -3,6 +3,5 @@
 📍 Toronto | 🤖 builder 
 
 ### Current Projects:
-----
 
 - 
