@@ -4,6 +4,6 @@
 
 ### Current Projects:
 
-- 🚗 [otd](https://github.com/kevinyejoonlee/otd) - AI voice assistant that calls car dealerships for their best price
+- 🚗 [otd](https://github.com/kevinyejoonlee/otd) - AI that calls insurance and car dealerships to get a true otd number
 
 
