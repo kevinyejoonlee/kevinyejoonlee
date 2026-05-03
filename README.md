@@ -3,7 +3,3 @@
 📍 Toronto | 🤖 builder 
 
 ### Current Projects:
-
-- 🚗 [otd](https://github.com/kevinyejoonlee/otd) - AI that calls insurance and car dealerships to get a true otd number
-- 📲 dbot - AI that handles social media distribution
-
