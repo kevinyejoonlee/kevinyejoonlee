@@ -1,5 +1,4 @@
+SWE @ Purolator. Mostly AWS, Python, and backend systems. 
+📍 Toronto | 🔗 LinkedIn | 📧 Email
 
-# Hi, I'm kevin 👋
-📍 Toronto | 🤖 builder 
 
-### Current Projects:
